@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.10" hassounds="0" apprev="21009" start="node1">
+  <panorama id="node1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" levelingpitch="0" height="1520" overlap="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-114.369" fovmode="2">
+      <start fov="100" projection="4" pan="-128.443" tilt="-4.8444"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" longitude="-52.35392605" latitude="-31.72519991" title="25 Multimarcas Pelotas" comment="" nodeid="node1" info="" heading="-114.369" source="" description="" author="" datetime="2025:09:18 19:44:08" tags="25multimarcas" altitude="18.80" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" width="180" border="1" height="20" borderradius="1" wordwrap="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.02638" title="25 Multimarcas Pelotas" target="$fwd" id="Point01" description="" pan="-129.607" url="{node3}" tilt="0" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" delay="none" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomin="7" zoomfov="40" zoomout="0" blendtime="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0" sensitivity="8" speedwheel="1" invertwheel="0" lockedwheel="0" contextprojections="0" zoomcentercursor="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" levelingpitch="0" height="1520" overlap="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-34.3753" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" longitude="-52.35391764" latitude="-31.72517365" title="25 Multimarcas Pelotas" comment="" nodeid="node3" info="" heading="-34.3753" source="" description="" author="" datetime="2025:09:18 19:44:14" tags="25multimarcas" altitude="18.50" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" width="180" border="1" height="20" borderradius="1" wordwrap="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.02638" title="25 Multimarcas Pelotas" target="$fwd" id="Point01" description="" pan="130.387" url="{node1}" tilt="0" skinid="ht_node"/>
+      <hotspot distance="3.64884" title="25 Multimarcas Pelotas" target="$fwd" id="Point02" description="" pan="-53.3593" url="{node5}" tilt="0" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" delay="none" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomin="7" zoomfov="40" zoomout="0" blendtime="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0" sensitivity="8" speedwheel="1" invertwheel="0" lockedwheel="0" contextprojections="0" zoomcentercursor="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" levelingpitch="0" height="1520" overlap="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="3.27123" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" longitude="-52.35394551" latitude="-31.72514505" title="25 Multimarcas Pelotas" comment="" nodeid="node4" info="" heading="3.27123" source="" description="" author="" datetime="2025:09:18 19:44:17" tags="25multimarcas" altitude="13.30" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" width="180" border="1" height="20" borderradius="1" wordwrap="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.83247" title="25 Multimarcas Pelotas" target="$fwd" id="Point01" description="" pan="-82.6859" url="{node5}" tilt="0" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" delay="none" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomin="7" zoomfov="40" zoomout="0" blendtime="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0" sensitivity="8" speedwheel="1" invertwheel="0" lockedwheel="0" contextprojections="0" zoomcentercursor="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" levelingpitch="0" height="1520" overlap="1" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="173.912" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" longitude="-52.35390509" latitude="-31.72514262" title="25 Multimarcas Pelotas" comment="" nodeid="node5" info="" heading="173.912" source="" description="" author="" datetime="2025:09:18 19:44:20" tags="25multimarcas" altitude="24.70" copyright=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" width="180" border="1" height="20" borderradius="1" wordwrap="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.64884" title="25 Multimarcas Pelotas" target="$fwd" id="Point01" description="" pan="334.928" url="{node3}" tilt="0" skinid="ht_node"/>
+      <hotspot distance="3.83247" title="25 Multimarcas Pelotas" target="$fwd" id="Point02" description="" pan="267.955" url="{node4}" tilt="0" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" delay="none" blendcolor="0x000000" type="mesh" zoomspeed="2" zoomin="7" zoomfov="40" zoomout="0" blendtime="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40"/>
+    <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control simulatemass="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0" sensitivity="8" speedwheel="1" invertwheel="0" lockedwheel="0" contextprojections="0" zoomcentercursor="1" lockedmouse="0" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" tags="" title="" comment="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
